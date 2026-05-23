@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Denis Alexandro and I'm learning web development, improving every day. 
+Hi, my name is Denis Alexandro and I'm a web developer improving every day. 
 When I'm not writing code, you can find me in the gym working out or nerding out about a lot of things. 
 Hope you can find my repository interesting :)
 
